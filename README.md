@@ -42,7 +42,8 @@ I’m a beginner software developer focusing on **full-stack web development** w
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mattew147)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MatthewM147)
 
-[![GitHub followers](https://img.shields.io/github/followers/Mattew-M?style=for-the-badge)](https://github.com/Matthew-M147)
+[![GitHub followers](https://img.shields.io/github/followers/Matthew-M147?style=for-the-badge)](https://github.com/Matthew-M147)
+
 
 ---
 
