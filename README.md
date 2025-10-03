@@ -1,4 +1,4 @@
-<img src="https://github.com/Mattew-M/Mattew-M/blob/main/assets/assets/photo_2024-10-21_18-03-08.jpg.gif" width="100%">
+<img src="https://github.com/Mattew-M/Mattew-M/blob/main/assets/photo_2024-10-21_18-03-08.jpg" width="100%">
 
 <img src="https://github.com/Mattew-M/Mattew-M/blob/main/assets/Aq.gif" width="100%">
 
