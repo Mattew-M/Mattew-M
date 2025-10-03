@@ -1,4 +1,4 @@
-![Header](https://github.com/Mattew-M/Mattew-M/blob/main/assets/Aq.gif)
+![Header](https://github.com/Mattew-M/Mattew-M/blob/main/assets/55.gif)
 
 ## Hi, I’m Matthew Mulyarchyk
 
@@ -33,15 +33,6 @@ I’m a beginner software developer focusing on **full-stack web development** w
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=white)
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
----
-
-## 🚀 Goals
-- Improve my skills in **backend & frontend frameworks**  
-- Build real-world applications  
-- Grow as a developer through practice and teamwork  
-
----
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-mulyarchyk-997583316)
