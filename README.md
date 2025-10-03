@@ -37,11 +37,11 @@ I’m a beginner software developer focusing on **full-stack web development** w
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-mulyarchyk-997583316)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rinkachiruku)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matviy.mulyarchyk)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matthew.mulyarchyk)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23768872/matthew)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mattew147)
 
-[![GitHub followers](https://img.shields.io/github/followers/Mattew-M?style=for-the-badge)](https://github.com/Mattew-M)
+[![GitHub followers](https://img.shields.io/github/followers/Mattew-M?style=for-the-badge)](https://github.com/Matthew-M147)
 
 ---
 
