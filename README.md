@@ -1,4 +1,4 @@
-![Header](https://github.com/Mattew-M/Mattew-M/blob/main/assets/2.gif)
+![Header](https://github.com/Mattew-M/Mattew-M/blob/main/assets/2.gif) <!-- ssilku na rezume potom -->
 ## Back-end development
 
 ### Languages & Preprocessors 
