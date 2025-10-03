@@ -1,5 +1,6 @@
-![Header](https://github.com/Mattew-M/Mattew-M/blob/main/assets/55.gif)
-![Header](https://github.com/Mattew-M/Mattew-M/blob/main/assets/Aq.gif)
+<img src="https://github.com/Mattew-M/Mattew-M/blob/main/assets/55.gif" width="100%">
+<img src="https://github.com/Mattew-M/Mattew-M/blob/main/assets/Aq.gif" width="100%">
+
 ## Hi, I’m Matthew Mulyarchyk
 
 I’m a beginner software developer focusing on **full-stack web development** with **Java (Spring Boot)** and **Angular**.
