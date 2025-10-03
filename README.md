@@ -1,7 +1,5 @@
 <img src="https://github.com/Mattew-M/Mattew-M/blob/main/assets/photo_2024-10-21_18-03-08.jpg" width="100%">
 
-<img src="https://github.com/Mattew-M/Mattew-M/blob/main/assets/Aq.gif" width="100%">
-
 ## Hi, I’m Matthew Mulyarchyk
 
 I’m a beginner software developer focusing on **full-stack web development** with **Java (Spring Boot)** and **Angular**.
