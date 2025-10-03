@@ -1,6 +1,6 @@
 ![Header](https://github.com/Mattew-M/Mattew-M/blob/main/assets/2.gif)
 
-#Hi, I’m Matthew Mulyarchyk
+## Hi, I’m Matthew Mulyarchyk
 
 I’m a beginner software developer focusing on **full-stack web development** with **Java (Spring Boot)** and **Angular**.
 
