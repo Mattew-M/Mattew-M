@@ -49,6 +49,7 @@ I’m a beginner software developer focusing on **full-stack web development** w
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matviy.mulyarchyk)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23768872/matthew)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mattew147)
+
 [![GitHub followers](https://img.shields.io/github/followers/Mattew-M?style=for-the-badge)](https://github.com/Mattew-M)
 
 ---
