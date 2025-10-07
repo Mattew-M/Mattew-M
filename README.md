@@ -46,8 +46,3 @@ I’m a beginner software developer focusing on **full-stack web development** w
 
 
 ---
-
-## 📊 GitHub Stats
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-M147&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-M147&layout=compact&theme=radical&hide_border=true&count_private=true)
